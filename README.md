@@ -11,7 +11,7 @@ You control the ship via the arrow keys on the keyboard, and the screen wraps on
 - 'Q' - Quits the game
 
 ## Compilation
-This game should compile on Linux or Windows assuming the SDL 2 libraries are installed. In the case of Linux:
+This game should compile on Linux or Windows assuming the SDL 3 libraries are installed. In the case of Linux:
 
 ```make```
 
