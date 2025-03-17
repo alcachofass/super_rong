@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/duffman91/Repos/super_rong",
+            "binaryPath": "/home/duffman91/Repos/super_rong/superrong-sdl",
+            "binaryArgs": []
+        }
+    ]
+}
